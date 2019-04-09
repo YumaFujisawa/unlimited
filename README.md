@@ -14,7 +14,7 @@
 
 # 公式コミュニケーションツール
 
-Slack　ー　https://aguunlimited.slack.com/
+Slack　ー　[https://aguunlimited.slack.com/](https://aguunlimited.slack.com/)
 
 Facebookグループ　ー　https://www.facebook.com/groups/602658266915770/
 
