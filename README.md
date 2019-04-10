@@ -74,7 +74,7 @@ HP-https://obaunlimited.wixsite.com/2017/un-limited
 
 ・１学年ー１０名
 
-<h4>2019年度 新入生募集ページ</h4>
+<h4>【2019年度 新入生募集ページ】</h4>
 
 https://github.com/Keitaoba828/unlimited/blob/master/freshman.md
 
